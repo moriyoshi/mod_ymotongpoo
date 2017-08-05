@@ -1,0 +1,6 @@
+mod_ymotongpoo.h
+*~
+*.so
+*.swp
+*.swo
+pid
